@@ -11,10 +11,10 @@
 
 <div align="center">
 
-I’m **codebyzeun** — an engineer, hacker, and AI enthusiast. I specialize in building systems that *see* and *talk* in real-time.  
+I’m **codebyzeun** — an engineer, and AI enthusiast. I specialize in building systems that *see* and *talk* in real-time.  
 Through my creations, I aim to bring machines closer to understanding the world as we do, using the power of vision and language.
 
-If you can think it, I can code it — or at least try to!
+If you can think it, I can code it or at least try to!
 
 </div>
 
