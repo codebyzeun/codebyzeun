@@ -1,20 +1,21 @@
-<h1 align="center">codebyzeun</h1>
+<h1 align="center">👁️‍🗨️ codebyzeun</h1>
 
 <p align="center">
-  <strong>Crafting real-time, vision-powered systems that understand the world.</strong><br>
-  <em>Created by a 22-year-old who is building the future, one line of code at a time.</em>
+  <strong>Building real-time, vision-powered AI systems for the future.</strong><br>
+  <em>Created by a 22-year-old developer who believes intelligence should see, think, and adapt.</em>
 </p>
 
 ---
 
-## About Me
+## 🧠 About Me
 
 <div align="center">
 
-I’m **codebyzeun** — an engineer, and AI enthusiast. I specialize in building systems that *see* and *talk* in real-time.  
-Through my creations, I aim to bring machines closer to understanding the world as we do, using the power of vision and language.
+Hey there, I’m **Zeun** — a passionate developer, AI architect, and systems engineer.  
+I build next-gen systems that *see* and *understand* in real time, bridging **vision** and **language**.  
+I’m here to push the boundaries of AI and make machines that think **like** we do.  
 
-If you can think it, I can code it or at least try to!
+Right now, I’m focused on building **Proxy AI**, a hybrid system for real-time video understanding powered by **computer vision** and **natural language processing**.
 
 </div>
 
@@ -26,10 +27,10 @@ If you can think it, I can code it or at least try to!
 
 ### 🔥 **Proxy AI**
 
-**Proxy AI** is a real-time, hybrid AI system that combines computer vision with natural language generation.  
-It takes **live video input**, processes it using **advanced CV algorithms**, and outputs **contextual, intelligent responses**.
+Proxy AI is a cutting-edge hybrid system that processes **live video input** in real-time, applies advanced **computer vision** algorithms, and generates **contextual, intelligent responses**.  
 
-**Tech Stack:**  
+Built using a powerful tech stack:
+<br/>
 <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,linux&theme=dark" />
 
 **License:** AGPL v3  
@@ -46,8 +47,8 @@ It takes **live video input**, processes it using **advanced CV algorithms**, an
 | 🔥 Project      | 🔍 Description                                                  | 🧾 License |
 |----------------|------------------------------------------------------------------|------------|
 | **Proxy AI**   | Real-time vision + language generation hybrid AI system         | AGPL v3    |
-| **VisionUtils**| Tools and utilities for computer vision pipelines               | MIT        |
-| **GhostBuild** | Experimental system (Stay tuned!)                               | TBD        |
+| **VisionUtils**| Modular tools for image preprocessing and CV pipeline handling  | MIT        |
+| **GhostBuild** | Experimental system — Stay tuned!                               | TBD        |
 
 </div>
 
@@ -57,16 +58,17 @@ It takes **live video input**, processes it using **advanced CV algorithms**, an
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codebyzeun&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyzeun&layout=compact&theme=radical" width="49%" />
 </p>
 
 ---
 
-## My Tech Stack
+## ⚙️ My Tech Stack
 
 <div align="center">
 
 **Languages & Frameworks:**  
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,numpy,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cplusplus,csharp,java,javascript,typescript,python,react,svelte,vuetify,tailwind,nodejs,nginx,flutter,dart,reactnative,tensorflow,pytorch,opencv,mysql,postgresql,docker,kubernetes,firebase,net,rails,electron,selenium,puppeteer,matlab,unity,unreal&theme=dark" />
 
 </div>
 
@@ -76,11 +78,10 @@ It takes **live video input**, processes it using **advanced CV algorithms**, an
 
 <div align="center">
 
-> “**Build** — don’t wait for someone to give you permission.”  
-> “AI isn’t just code — it’s intelligence that **adapts**.”
+> **“Innovation is only possible when you break boundaries.”**  
+> **“Code isn’t just about logic — it’s about creating something that thinks.”**
 
-I don’t just automate — I create systems that think, react, and learn in real-time.  
-Open-source is key. Innovation has no boundaries.
+Whether it's **AI**, **real-time processing**, or **open-source development**, I’m always looking for ways to build the future, now.
 
 </div>
 
@@ -100,8 +101,8 @@ Open-source is key. Innovation has no boundaries.
 
 <div align="center">
 
-_"I'm 22, and Proxy AI might already understand more than your entire SaaS stack."_  
-Stay tuned. More is coming.
+_"I’m 22. I’ve just started. The machines are already listening."_  
+Stay tuned. More to come.
 
 </div>
 
