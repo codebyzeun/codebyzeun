@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react, nodejs, c++**
 
-- ⚡ Fun fact **I once tried to teach my AI to recognize pizza toppings in real-time... but it just ended up thinking every slice was a masterpiece of tech innovation. So yeah, AI might be good at seeing the world, but it’s still not great at deciding what’s a "perfect slice." 🍕**
+- ⚡ Fun fact **I once tried to teach my AI to recognize pizza toppings in real-time... but it just ended up thinking every slice was a masterpiece of tech innovation. So yeah AI might be good at seeing the world but it’s still not great at deciding what’s a "perfect slice" 🍕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
