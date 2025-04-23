@@ -1,59 +1,99 @@
-<h1 align="center">⚡ codebyzeun</h1>
+<h1 align="center">👁️‍🗨️ codebyzeun</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="200"/>
 </p>
 
 <p align="center">
-  <strong>Real-time vision. Reactive intelligence. Built with raw curiosity by a 22-year-old shaping the AI frontier.</strong>
-</p>
-
----
-
-### 🧠 About Me
-
-- 🧊 Creator of **Proxy AI** – an advanced AI system combining computer vision + real-time language generation.
-- 🧠 Focused on building intelligent systems that *see*, *understand*, and *respond* instantly.
-- 🛠️ Building with **vision, intention**, and a whole lot of coffee.
-- 🌍 Open-source believer. Freedom in code. AGPL-vibes only.
-
----
-
-### 💻 Tech Stack
-
-> Python • PyTorch • OpenCV • Transformers • FastAPI • YOLOv8 • Real-Time CV Pipelines • LangChain • NumPy • Vibe
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | License |
-|--------|-------------|---------|
-| [Proxy AI](https://github.com/codebyzeun/proxy-ai) | ⚡ Vision-powered AI system with real-time text generation. | AGPL v3 |
-| [VisionUtils](https://github.com/codebyzeun/vision-utils) | 🔧 Lightweight utilities for CV pipelines and preprocessing. | MIT |
-| [more soon...](#) | Stay tuned — more is cooking 🔥 | 🧪 |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebyzeun&show_icons=true&theme=radical" />
+  <b>A developer, visionary, and builder of machines that see.</b><br>
+  <i>Real-time intelligence from visual reality. Born from curiosity. Engineered at 22.</i>
 </p>
 
 ---
 
-### 👀 Fun Fact
+### ⚡ Who Am I?
 
-> Proxy AI might already be smarter than your startup's MVP. And it was built by a 22-year-old.
+Hey, I’m `codebyzeun` — an engineer, researcher, and unapologetic experimenter.  
+I don’t just build code — I build **systems that react**, systems that **understand**, and systems that **speak** back.  
+
+By the time you're reading this, there’s a good chance my AI is already analyzing a camera feed,  
+generating live insights, and wondering why the world doesn't move faster.
+
+> 💬 “Why wait for the future, when you can generate it?”
 
 ---
 
-### 📫 Reach Me
+### 🔮 What I'm Building
 
-- Discord: `codebyzeun#0420`
-- [GitHub](https://github.com/codebyzeun)
+#### 🧠 Proxy AI
+> Proxy AI is a real-time AI system that fuses computer vision and language models  
+> to turn live video into context-aware narration, analysis, and response.
 
-> Want to collaborate? Fork it. Remix it. Just don’t break the AGPL, friend.
+- 📸 **Input**: Live camera streams or frames
+- 🧠 **Process**: YOLOv8 + Transformer-based NLP
+- 🗣️ **Output**: Natural language responses, summaries, and actions
+- 🧰 Built with: Python, OpenCV, FastAPI, PyTorch, LangChain, and a reckless amount of caffeine
+
+---
+
+### 🛠️ Tools in My Arsenal
+
+
+I don’t just write code — I **engineer intelligence.**
+
+---
+
+### 🧪 Current Projects
+
+| Project      | What It Does                                                        | Status     |
+|--------------|---------------------------------------------------------------------|------------|
+| Proxy AI     | Real-time computer vision + language gen in one hybrid AI system.   | 🚀 Active  |
+| VisionUtils  | Reusable utilities for CV pipelines and experimentation             | 🛠️ Dev     |
+| GhostBuild   | *Redacted.*                                                         | 🧪 Private |
+
+---
+
+### 📈 Stats & Commits
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codebyzeun&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyzeun&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 👁️‍🗨️ The Philosophy
+
+I believe in:
+- 🧠 AI that **assists**, not replaces
+- 🧊 Open-source systems with transparent logic
+- 🔓 Knowledge as a **right**, not a product
+- 🧪 Messy experimentation > perfect plans
+
+I don't believe in:
+- Gatekeeping
+- Closed-box black magic AI
+- Waiting until someone else builds it
+
+---
+
+### 📫 Let's Connect
+
+- 💬 Discord: `codebyzeun#0420`
+- 🧠 GitHub: [@codebyzeun](https://github.com/codebyzeun)
+- 🌐 More soon...
+
+If you want to collaborate, remix, or just vibe — my inbox is open.
+
+---
+
+### 🎤 Final Thought
+
+> “I'm not trying to change the world.  
+> I'm just teaching machines how to **see** it clearly.”
+
+Thanks for stopping by. Keep watching.  
+This is just the beginning.
 
 ---
