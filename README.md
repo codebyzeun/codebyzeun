@@ -1,99 +1,109 @@
 <h1 align="center">👁️‍🗨️ codebyzeun</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="200" />
 </p>
 
 <p align="center">
-  <b>A developer, visionary, and builder of machines that see.</b><br>
-  <i>Real-time intelligence from visual reality. Born from curiosity. Engineered at 22.</i>
+  <strong>AI that sees. Intelligence that speaks. Engineered at 22.</strong><br>
+  <em>Crafting real-time, vision-powered systems for the world ahead.</em>
 </p>
 
 ---
 
-### ⚡ Who Am I?
+### 🧠 About Me
 
-Hey, I’m `codebyzeun` — an engineer, researcher, and unapologetic experimenter.  
-I don’t just build code — I build **systems that react**, systems that **understand**, and systems that **speak** back.  
+<div align="center">
 
-By the time you're reading this, there’s a good chance my AI is already analyzing a camera feed,  
-generating live insights, and wondering why the world doesn't move faster.
+👋 Hey, I’m **Zeun** — a developer, hacker, and architect of intelligent systems.  
+I build AI that doesn’t just *process*, it *understands* — from visual input to linguistic output.  
 
-> 💬 “Why wait for the future, when you can generate it?”
+Right now, I’m creating systems that can see the world and talk about it...  
+because why should machines stay silent?
 
----
-
-### 🔮 What I'm Building
-
-#### 🧠 Proxy AI
-> Proxy AI is a real-time AI system that fuses computer vision and language models  
-> to turn live video into context-aware narration, analysis, and response.
-
-- 📸 **Input**: Live camera streams or frames
-- 🧠 **Process**: YOLOv8 + Transformer-based NLP
-- 🗣️ **Output**: Natural language responses, summaries, and actions
-- 🧰 Built with: Python, OpenCV, FastAPI, PyTorch, LangChain, and a reckless amount of caffeine
+</div>
 
 ---
 
-### 🛠️ Tools in My Arsenal
+### ⚙️ Core Project
 
+<div align="center">
 
-I don’t just write code — I **engineer intelligence.**
+🚀 **Proxy AI**  
+> A fusion of computer vision and language generation — designed to process real-time video streams and generate contextual natural language insights.  
 
----
+**Stack:** YOLOv8 • OpenCV • PyTorch • Transformers • FastAPI • LangChain  
+**License:** GNU AGPL v3
 
-### 🧪 Current Projects
-
-| Project      | What It Does                                                        | Status     |
-|--------------|---------------------------------------------------------------------|------------|
-| Proxy AI     | Real-time computer vision + language gen in one hybrid AI system.   | 🚀 Active  |
-| VisionUtils  | Reusable utilities for CV pipelines and experimentation             | 🛠️ Dev     |
-| GhostBuild   | *Redacted.*                                                         | 🧪 Private |
+</div>
 
 ---
 
-### 📈 Stats & Commits
+### 🛠️ Tech Arsenal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebyzeun&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyzeun&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,numpy,github,linux&theme=dark" />
 </p>
 
 ---
 
-### 👁️‍🗨️ The Philosophy
+### 🧪 Projects
 
-I believe in:
-- 🧠 AI that **assists**, not replaces
-- 🧊 Open-source systems with transparent logic
-- 🔓 Knowledge as a **right**, not a product
-- 🧪 Messy experimentation > perfect plans
+<p align="center">
 
-I don't believe in:
-- Gatekeeping
-- Closed-box black magic AI
-- Waiting until someone else builds it
+| 💼 Project      | 🔍 Description                                                   | 🧾 License |
+|----------------|------------------------------------------------------------------|------------|
+| **Proxy AI**   | Real-time vision + language generation hybrid AI system.         | AGPL v3    |
+| **VisionUtils**| Modular tools for image preprocessing and CV pipeline handling.  | MIT        |
+| **GhostBuild** | *Redacted experimental system — stay tuned.*                     | TBD        |
+
+</p>
 
 ---
 
-### 📫 Let's Connect
+### 📊 GitHub Stats
 
-- 💬 Discord: `codebyzeun#0420`
-- 🧠 GitHub: [@codebyzeun](https://github.com/codebyzeun)
-- 🌐 More soon...
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codebyzeun&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyzeun&layout=compact&theme=tokyonight" width="49%" />
+</p>
 
-If you want to collaborate, remix, or just vibe — my inbox is open.
+---
+
+### ✨ The Philosophy
+
+<div align="center">
+
+🧠 AI should **assist**, not replace.  
+🔓 Code should be **open**, not locked away.  
+🧪 Building is better than waiting.
+
+I’m not here to follow blueprints. I’m here to rewrite them.
+
+</div>
+
+---
+
+### 📫 Let’s Connect
+
+<p align="center">
+  <a href="https://github.com/codebyzeun"><img src="https://img.shields.io/badge/GitHub-codebyzeun-181717?style=flat&logo=github" /></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Send%20Message-blue?style=flat&logo=gmail" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-codebyzeun%230420-5865F2?style=flat&logo=discord&logoColor=white" /></a>
+</p>
 
 ---
 
 ### 🎤 Final Thought
 
-> “I'm not trying to change the world.  
-> I'm just teaching machines how to **see** it clearly.”
+<p align="center"><em>
+"I'm not trying to change the world.<br>
+I'm just teaching machines how to <strong>see</strong> it clearly."
+</em></p>
 
-Thanks for stopping by. Keep watching.  
-This is just the beginning.
+<p align="center">
+  🔭 Keep watching.<br>
+  This is just the beginning.
+</p>
 
 ---
